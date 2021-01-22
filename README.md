@@ -23,7 +23,7 @@
 8/ Tạo 1 file **index.html** đơn giản và upload lên bucket. Hoặc vào folder files down về
 ![](images/s3-bucket-Upload-File-index-html.jpg)
 9/ Trong phần upload file => Additional Options => Bucket Access Control List (Bucket ACL) => tick như hình => SAVE
-![](images\s3-bucket-Upload-File-index-html-Additional-Options.jpg)
+![](images/s3-bucket-Upload-File-index-html-Additional-Options.jpg)
 10/ Chọn bucket => Properties => Kéo xuống Static Web Hosting => sẽ thấy End Point => Copy => Paste vào browser 
 ![](images/s3-bucket-TestingWebsite-Bucket-EndPoint.jpg)
 ![](images/s3-bucket-Website-Public.jpg)
