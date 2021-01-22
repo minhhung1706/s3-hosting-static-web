@@ -14,7 +14,7 @@
 * Amazon Resource Name: Paste ARN vừa copy vào đây
 * Sau cùng = > Add Statement
 ![](images/s3-bucket-Policy-Generator-GetBucketWebsite-GetObjects.jpg)
-6/ Copy JSON code
+6/ Sau đó sẽ thấy xuất hiện **Step 3** => Generate Policy => Copy JSON code
 ![](images/s3-bucket-GeneratePolicy-Copy-JSON-Code.jpg)
 7/ Về lại trang bucket policy khi nãy => paste JSON code vào phần Policy như hình:
 
